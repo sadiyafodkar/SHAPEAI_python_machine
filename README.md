@@ -1,11 +1,11 @@
 # SHAPEAI_python_machine
 # SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
 
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 
 </b>.
 
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+The instructor during the session was Mr. Shaurya Sinha (Co-founder at Devtown). I got to
 
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 
